@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=MWIJAY%20DAVIE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Website%20Developer%20%E2%80%A2%20Digital%20Smart%20Systems%20%E2%80%A2%20Automation%20Architect&descAlignY=56&descSize=16&descColor=93C5FD" width="100%"/>
@@ -234,4 +233,3 @@ const mwijay = {
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
-```
