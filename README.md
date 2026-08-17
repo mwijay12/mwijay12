@@ -1,109 +1,237 @@
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:60A5FA&height=180&section=header&text=MWIJAY%20DAVIE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Website%20Developer%20%7C%20Digital%20Smart%20Systems%20%26%20Applications&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://avatars.githubusercontent.com/u/165444351?v=4" width="90" style="border-radius:50%;border:3px solid #60A5FA;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=MWIJAY%20DAVIE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Website%20Developer%20%E2%80%A2%20Digital%20Smart%20Systems%20%E2%80%A2%20Automation%20Architect&descAlignY=56&descSize=16&descColor=93C5FD" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/mwijay12">
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+fast%2C+modern+websites;Secure+apps+powered+by+Firebase;Automating+the+repetitive+with+n8n;Let's+build+something+great+%E2%9C%A8&font=Poppins&size=20&pause=1500&color=1E90FF&center=true&vCenter=true&width=600&height=50" />
+<img src="https://avatars.githubusercontent.com/u/165444351?v=4" width="120" style="border-radius:50%;" />
 </a>
+
+<br/><br/>
+
+<a href="https://github.com/mwijay12">
+<img src="https://readme-typing-svg.demolab.com/?lines=🚀+Building+fast%2C+modern+websites;🔐+Secure+apps+powered+by+Firebase+%26+Supabase;🔁+Automating+workflows+with+n8n;🌍+Serving+businesses+across+East+Africa;✨+Let's+build+something+extraordinary&font=JetBrains+Mono&size=18&pause=2000&color=3B82F6&center=true&vCenter=true&width=650&height=55&duration=4000" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mwijay12&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/mwijay12?tab=followers">
+<img src="https://img.shields.io/github/followers/mwijay12?style=for-the-badge&color=1E3A8A&labelColor=0F172A&logo=github&label=Followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-💙-1E90FF?style=for-the-badge&labelColor=0F172A" />
 
 </div>
 
 <br/>
 
-## About
-
-**Mwijay Davie** is a website developer and digital smart systems specialist, building fast, modern, and secure digital products for businesses across East Africa.
-
-- ⚡ **Fast, modern websites** — built with current technologies for speed, reliability, and a smooth user experience
-- 🔐 **Secure Firebase storage** — apps backed by scalable, secure cloud infrastructure
-- 🔁 **n8n automation** — simplifying repetitive tasks, cutting down manual workload, and freeing up time for what matters
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## Services
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
+
+```typescript
+const mwijay = {
+    name: "Mwijay Davie",
+    role: "Website Developer & Digital Systems Specialist",
+    location: "Tanzania 🇹🇿",
+    mission: "Building fast, modern, and secure digital products for East Africa",
+    currentFocus: [
+        "⚡ High-performance web applications",
+        "🔐 Secure cloud-backed systems",
+        "🔁 Intelligent workflow automation",
+        "📱 Cross-platform mobile apps"
+    ],
+    dailyTools: ["Next.js", "React", "Firebase", "Supabase", "n8n", "Python"],
+    funFact: "I automate what others do manually 🤖"
+};
+```
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Services
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🌐 Web Development
-Fast, responsive, modern websites built for performance and built to convert.
-
+<td width="33%" align="center">
+<br/>
+<h3>🌐 Web Development</h3>
+<p>
+<img src="https://img.shields.io/badge/Fast-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Responsive-1E3A8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Modern-0F172A?style=flat-square" />
+</p>
+<p><em>Lightning-fast, responsive websites engineered for performance and built to convert visitors into customers.</em></p>
+<br/>
 </td>
-<td width="33%" valign="top">
-
-### 🔐 Firebase & Supabase Apps
-Secure, scalable applications with reliable cloud-backed storage.
-
+<td width="33%" align="center">
+<br/>
+<h3>🔐 Cloud Applications</h3>
+<p>
+<img src="https://img.shields.io/badge/Firebase-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Supabase-1E3A8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Scalable-0F172A?style=flat-square" />
+</p>
+<p><em>Secure, scalable applications with enterprise-grade cloud infrastructure that grows with your business.</em></p>
+<br/>
 </td>
-<td width="33%" valign="top">
-
-### 🔁 n8n Automation
-Workflow automation that removes repetitive tasks and saves you time.
-
+<td width="33%" align="center">
+<br/>
+<h3>🔁 n8n Automation</h3>
+<p>
+<img src="https://img.shields.io/badge/Workflows-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/No--Code-1E3A8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Smart-0F172A?style=flat-square" />
+</p>
+<p><em>Intelligent workflow automation that eliminates repetitive tasks and gives you back hours every week.</em></p>
+<br/>
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-## Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-1E90FF?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-1E90FF?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-1E90FF?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-1E90FF?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-1E90FF?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Capacitor-1E90FF?style=for-the-badge&logo=capacitor&logoColor=white" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,supabase,postgresql,prisma&theme=dark" />
+
+### 🛠️ Tools & Deployment
+<img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,figma,linux&theme=dark" />
+
+### 📱 Mobile & Automation
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white&labelColor=0F172A" />
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0F172A" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0F172A" />
+&nbsp;
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0F172A" />
 
 </div>
 
 <br/>
 
-## Currently Building
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏗️ Currently Building
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🚦 **RoadSafety_Dar** | Road safety data platform for Dar es Salaam — Next.js, Supabase, Prisma |
-| 🎧 **Mwijay Music App** | Modern music & reels player built with Vite, React, and Capacitor |
-| 🎓 **uautconnect** | A connected platform for United African University of Tanzania |
-| 🌍 **tanzaniareach.com** | Tanzania issues & opportunity intelligence hub |
+| &nbsp; | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| 🚦 | **RoadSafety_Dar** | Road safety data platform for Dar es Salaam | `Next.js` `Supabase` `Prisma` `Maps API` |
+| 🎧 | **Mwijay Music App** | Modern music & reels player — mobile-first | `Vite` `React` `Capacitor` `Firebase` |
+| 🎓 | **uautconnect** | Connected platform for UAUT community | `Next.js` `Supabase` `Real-time` |
+| 🌍 | **tanzaniareach.com** | Tanzania issues & opportunity intelligence hub | `Next.js` `PostgreSQL` `n8n` |
 
 </div>
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mwijay12&show_icons=true&theme=default&hide_border=true&title_color=1E90FF&icon_color=EC4899&text_color=333333&bg_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwijay12&hide_border=true&background=FFFFFF&ring=1E90FF&fire=EC4899&currStreakLabel=1E90FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mwijay12&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=C9D1D9&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwijay12&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwijay12&layout=donut-vertical&hide_border=true&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="35%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwijay12&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="96%" />
 
 </div>
 
 <br/>
 
-## Let's Connect
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-📞 **0620 641 695** &nbsp;·&nbsp; 📧 **mwijaydavie@gmail.com** &nbsp;·&nbsp; 📸 [@mwijay_dave](https://instagram.com/mwijay_dave)
+<img src="https://github-profile-trophy.vercel.app/?username=mwijay12&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="96%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:1E90FF&height=100&section=footer" width="100%"/>
+## 💡 Dev Philosophy
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Don't just build websites — build digital experiences     ║
+║    that solve real problems and scale with ambition."        ║
+║                                                              ║
+║                                        — Mwijay Davie        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="tel:+255620641695">
+<img src="https://img.shields.io/badge/📞_Call_Me-0F172A?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="mailto:mwijaydavie@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+</a>
+&nbsp;
+<a href="https://instagram.com/mwijay_dave">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F172A" />
+</a>
+&nbsp;
+<a href="https://github.com/mwijay12">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=💬+Got+a+project+in+mind?;🤝+Let's+collaborate!;📩+DM+me+anytime&font=JetBrains+Mono&size=16&pause=2500&color=60A5FA&center=true&vCenter=true&width=400&height=40&duration=3000" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwijay12/mwijay12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwijay12/mwijay12/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mwijay12/mwijay12/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
+```
