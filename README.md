@@ -32,7 +32,7 @@
 
 ## About Me
 
-Hi, I'm **Mwijay Davie** — a **Website Developer** and **Digital Smart Systems Specialist** from Tanzania.
+Hi, I'm **Mwijay Davie** — **Co-Founder at Altraware Technologies**, **Website Developer**, and **Digital Smart Systems Specialist** from Tanzania.
 
 I build fast, modern, and secure digital products for businesses, organizations, and communities across East Africa. My work focuses on creating reliable websites, scalable cloud-backed applications, and smart automation systems that save time and improve productivity.
 
