@@ -221,3 +221,5 @@ Automation systems that remove repetitive tasks and save valuable time.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
+
+<!-- Altraware Technologies System Architecture & Open Source Ecosystem -->
