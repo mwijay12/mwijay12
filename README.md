@@ -155,7 +155,7 @@ Automation systems that remove repetitive tasks and save valuable time.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwijay12&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="96%" />
+<img src="https://ghchart.rshah.org/3B82F6/mwijay12" width="96%" />
 
 </div>
 
